@@ -1,1 +1,2 @@
 Première ligne avant le commit.
+Deuxième ligne ajouté après le premier commit.
